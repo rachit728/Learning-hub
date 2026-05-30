@@ -1,0 +1,23 @@
+[
+{
+"id":1,
+"category":"Programming",
+"title":"Python Variables",
+"description":"Introduction to variables",
+"youtube":"https://www.youtube.com/embed/pmanD_s7G3U"
+},
+{
+"id":2,
+"category":"Programming",
+"title":"Python Loops",
+"description":"For and While loops",
+"youtube":"https://www.youtube.com/embed/VIDEO_ID"
+},
+{
+"id":3,
+"category":"Languages",
+"title":"Japanese Basics",
+"description":"Introduction to Japanese",
+"youtube":"https://www.youtube.com/embed/VIDEO_ID"
+}
+]
